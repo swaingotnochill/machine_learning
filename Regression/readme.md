@@ -1,4 +1,4 @@
-# Multivariate Regression
+# Regression
 
 A typical supervised learning task, with labled training examples. It is also a typical 
 regression task, more specifically a multiple regression as the system will use multiple 
